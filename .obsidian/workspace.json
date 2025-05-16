@@ -11,14 +11,15 @@
             "id": "f0a687158f0e4d88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -178,8 +179,8 @@
   },
   "active": "f0a687158f0e4d88",
   "lastOpenFiles": [
+    "README.md",
     "커버이미지.png",
-    "obsidian 관련 요약.md",
-    "README.md"
+    "obsidian 관련 요약.md"
   ]
 }
