@@ -11,10 +11,14 @@
             "id": "f0a687158f0e4d88",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -174,7 +178,7 @@
   },
   "active": "f0a687158f0e4d88",
   "lastOpenFiles": [
-    "README.md",
-    "obsidian 관련 요약.md"
+    "obsidian 관련 요약.md",
+    "README.md"
   ]
 }
