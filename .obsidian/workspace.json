@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian.md",
+                "file": "여러-github-계정-세팅.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "obsidian"
+              "title": "여러-github-계정-세팅"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "여러-github-계정-세팅"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "02d391140ca6d123",
@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,11 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "306446d9cdef1cc3",
+  "active": "d2a84be0a7d64a9f",
   "lastOpenFiles": [
-    "obsidian.md",
+    "커버이미지.png",
     "여러-github-계정-세팅.md",
     "README.md",
-    "커버이미지.png"
+    "obsidian.md"
   ]
 }
